@@ -1,0 +1,13 @@
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\SATProblem.exe
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\SATProblem.deps.json
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\SATProblem.runtimeconfig.json
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\SATProblem.runtimeconfig.dev.json
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\SATProblem.dll
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\SATProblem.pdb
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\bin\Release\netcoreapp3.1\CommandLine.dll
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\obj\Release\netcoreapp3.1\SATProblem.csprojAssemblyReference.cache
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\obj\Release\netcoreapp3.1\SATProblem.AssemblyInfoInputs.cache
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\obj\Release\netcoreapp3.1\SATProblem.AssemblyInfo.cs
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\obj\Release\netcoreapp3.1\SATProblem.csproj.CopyComplete
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\obj\Release\netcoreapp3.1\SATProblem.dll
+C:\Users\tomas.svatek\source\repos\SATProblem\SATProblem\obj\Release\netcoreapp3.1\SATProblem.pdb
